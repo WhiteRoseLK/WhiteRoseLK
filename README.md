@@ -13,13 +13,8 @@
 
 ### 🚀 Spotlight Project: [neossh](https://github.com/WhiteRoseLK/neossh)
 
-> A modern, keyboard-driven SSH manager for your terminal inspired by `lazydocker` and `k9s`.  
+> A modern, keyboard-driven SSH manager for your terminal.  
 > Actively maintained fork and continuation of **lazyssh** with support for SSH `Include` directives, fuzzy search, and smooth config migrations.
-
-```bash
-# Install via Homebrew:
-brew tap WhiteRoseLK/tap && brew trust WhiteRoseLK/tap && brew install neossh
-```
 
 ---
 
@@ -39,15 +34,5 @@ brew tap WhiteRoseLK/tap && brew trust WhiteRoseLK/tap && brew install neossh
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-<div align="center">
-
-[![WhiteRose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteRoseLK&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/WhiteRoseLK)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRoseLK&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/WhiteRoseLK)
-
-</div>
